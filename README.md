@@ -1,5 +1,13 @@
-### Hola a todos, mi nombre es Borja Martínez 👋
+# Hola a todos, mi nombre es Borja Martínez 👋
+### Developer especialista en Python
 
+Soy desarrollador de software profesional desde hace 2 años.
+
+Soy un gran apasionado de la programación, por lo tanto no trabajo ni un solo día de mi vida porque ¡me dedico a lo que más me gusta!
+Desde que inicié mi carrera profesional, he estado desarrollando programas tanto para uso empresarial como para uso propio. Mi trabajo se
+enfoca en la automatización de todo tipo de procesos empleando algunas herramientas como la inteligencia artificial y la visión por computador.
+
+Creo que ha llegado el momento de compartir ciertos conocimientos con toda la comunidad.
 <!--
 **BMMartinezDev/BMMartinezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
