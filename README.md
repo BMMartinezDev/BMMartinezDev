@@ -8,6 +8,9 @@ Desde que inicié mi carrera profesional, he estado desarrollando programas tant
 enfoca en la automatización de todo tipo de procesos empleando algunas herramientas como la inteligencia artificial y la visión por computador.
 
 Creo que ha llegado el momento de compartir ciertos conocimientos con toda la comunidad.
+
+## Tecnologías:
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]
 <!--
 **BMMartinezDev/BMMartinezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
